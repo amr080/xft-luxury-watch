@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon1.png" />
+    <title>Kettle</title>
+    <meta property="og:title" content="Kettle, finance for the connoisseur." />
+    <meta property="og:description" content="Kettle, finance for the connoisseur." />
+    <meta property="og:image" content="https://storage.googleapis.com/kettle-inventory/kettle-twitter.png" />
+    <meta property="og:url" content="https://kettle.fi" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Kettle" />
+    <meta name="twitter:description" content="Kettle, finance for the connoisseur." />
+    <meta name="twitter:image" content="https://storage.googleapis.com/kettle-inventory/kettle-twitter.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/dist/output.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <script type="module" crossorigin src="/assets/index-6f8d994b.js"></script>
+    <link rel="stylesheet" href="/assets/index-8ef59f4e.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <Script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></Script>
+  </body>
+</html>
